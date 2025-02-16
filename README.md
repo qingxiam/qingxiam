@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @qingxiam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Software
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m QingXia.
+- 👀 I’m interested in Tokyo, Computer, ACG, Guitar. 
+- 🌱 I’m currently learning Software Engineering in XMU of China.
+- 💞️ I’m looking to collaborate on English, Japanese.
 - 📫 How to reach me :qx310731@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Goal: UTokyo.
 
 <!---
 QXqingxia/QXqingxia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
