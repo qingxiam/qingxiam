@@ -1,5 +1,5 @@
 - 👋 Hi, I’m QingXia.
-- 👀 I’m interested in Tokyo, Computer, ACG, Guitar. 
+- 👀 I’m interested in Tokyo, Computer, Sports, ACG, Guitar. 
 - 🌱 I’m currently learning Software Engineering in XMU of China.
 - 💞️ I’m looking to collaborate on English, Japanese.
 - 📫 How to reach me :qx310731@gmail.com
