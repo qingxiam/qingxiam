@@ -1,4 +1,4 @@
-- 👋 Hi, I’m QingXia.
+- 👋 Hi, I’m Haotian Liu.
 - 👀 I’m interested in MLLM, AI, Sports, ACG, Guitar. 
 - 🌱 I’m currently learning Software Engineering in XMU of China.
 - 💞️ I’m looking to collaborate on MLLM, English, Japanese.
