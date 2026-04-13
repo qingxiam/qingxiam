@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Haotian Liu.
-- 👀 I’m interested in MLLM, AI, Sports, ACG, Guitar. 
+- 👀 I’m interested in MLLM, AI, CS, Sports, ACG, Guitar. 
 - 🌱 I’m currently learning Software Engineering in XMU of China.
-- 💞️ I’m looking to collaborate on MLLM, English, Japanese.
-- 📫 How to reach me :qx310731@gmail.com.
-- 😄 Goal: UTokyo / ISCT / Waseda / keio.
+- 📫 How to reach me :haotianliu.me@gmail.com & liuhaotian@stu.xmu.edu.cn.
+- 😄 Goal: Tokyo.
 
 <!---
 QXqingxia/QXqingxia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
